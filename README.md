@@ -3,6 +3,7 @@
 
 ### App Description
 Displays "Hello From Arunima" and has a button which the user can click to change the displayed text's color to Blue.
+User can also Change the text color, and the text itself. 
 
 ### App Walk-though
 
