@@ -6,7 +6,7 @@ Displays "Hello From Arunima" and has a button which the user can click to chang
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/Frdhzl6.gif" width=200><br>
+<img src="https://i.imgur.com/UOlHq0u.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -14,8 +14,8 @@ Displays "Hello From Arunima" and has a button which the user can click to chang
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.  
-- [ ] 2. User can tap a button to change the text string of the label - Android is Awesome!  
+- [x] 1. User can tap a button to change the color of the background view.  
+- [x] 2. User can tap a button to change the text string of the label - Android is Awesome!  
 - [ ] 3. User can tap on the background view to reset all views to default settings.  
 - [ ] 4. User can update the label text with custom text entered into the text field.  
    - [ ] a. User can enter text into a text field using the keyboard.  
